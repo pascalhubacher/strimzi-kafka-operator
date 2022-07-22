@@ -9,9 +9,3 @@ kind: Namespace
 metadata:
   name: kafka-dev
 spec: {}
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: prometheus-operator
-spec: {}
